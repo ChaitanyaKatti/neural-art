@@ -5,7 +5,7 @@
 </p>
 
 
-Welcome to our Neural Style Transfer GitHub repository! This project focuses on the implementation of Neural Style Transfer, a fascinating technique that combines the content of one image with the artistic style of another image using deep neural networks. Neural Style Transfer has gained significant attention for its ability to create captivating and artistic images.
+This project focuses on the implementation of Neural Style Transfer, a fascinating technique that combines the content of one image with the artistic style of another image using deep neural networks. Neural Style Transfer has gained significant attention for its ability to create captivating and artistic images.
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ The concept of Neural Style Transfer was first introduced in the paper "A Neural
 
 The Neural Style Transfer technique involves the following key steps:
 
-1. **Content Representation**: A pre-trained CNN is used to extract high-level features from the content image. The intermediate feature maps, usually from deeper layers of the network, capture the content information.
+1. **Content Representation**: A pre-trained CNN is used to extract high-level features from the content image. The intermediate feature maps, usually from deeper layers of the network, capture the content information. Here I am using the VGG-19 model.
 
 2. **Style Representation**: Similarly, the style image's features are extracted from the pre-trained CNN. The Gram matrix is computed from these feature maps, representing the style of the image.
 
@@ -42,7 +42,7 @@ To run the Neural Style Transfer algorithm on your own images, follow these step
 
 1. Clone the repository: `git clone https://github.com/ChaitanyaKatti/neural-art.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Prepare your content image and style image and place them in the `images` directory.
+3. Prepare your content image and style image and place them in the `images/contents` and `images/style` directory.
 4. Run the style transfer script: `python main.py` of use the `main.ipynb`
 
 ## Examples
