@@ -1,6 +1,9 @@
 # Neural Style Transfer
 
-![Neural Style Transfer](images/neural_style_transfer.png)
+<p align="center">
+  <img src="https://github.com/ChaitanyaKatti/neural-art/assets/96473570/0c925a25-13d7-4763-bb4f-9e746a5d0cce" alt="Image Description" width="400" height="300" />
+</p>
+
 
 Welcome to our Neural Style Transfer GitHub repository! This project focuses on the implementation of Neural Style Transfer, a fascinating technique that combines the content of one image with the artistic style of another image using deep neural networks. Neural Style Transfer has gained significant attention for its ability to create captivating and artistic images.
 
@@ -46,11 +49,10 @@ To run the Neural Style Transfer algorithm on your own images, follow these step
 
 Here are some impressive examples of Neural Style Transfer outputs:
 
-![Example 1](images/example1.png)
-
-![Example 2](images/example2.png)
-
-![Example 3](images/example3.png)
+<p align="center">
+  <img src="https://github.com/ChaitanyaKatti/neural-art/assets/96473570/2d16f692-0276-4664-ba71-559e1bf893d5" alt="Image Description" width="500" height="500" />
+  
+</p>
 
 ## References
 
