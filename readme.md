@@ -49,10 +49,29 @@ To run the Neural Style Transfer algorithm on your own images, follow these step
 
 Here are some impressive examples of Neural Style Transfer outputs:
 
-<p align="center">
-  <img src="https://github.com/ChaitanyaKatti/neural-art/assets/96473570/2d16f692-0276-4664-ba71-559e1bf893d5" alt="Image Description" width="500" height="500" />
-  
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/ChaitanyaKatti/neural-art/assets/96473570/2d16f692-0276-4664-ba71-559e1bf893d5" alt="Image 1" width="400" height="400" />
+    </td>
+    <td>
+      <img src="https://github.com/ChaitanyaKatti/neural-art/assets/96473570/7d3fd154-4b96-4a4c-b75d-72b2de937bf3" alt="Image 2" width="400" height="400" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Style tranfer with a cat
+    </td>
+    <td align="center">
+      Style transfer over an AI generated image of my friend
+    </td>
+  </tr>
+</table>
+
+
+
+</div>
+
 
 ## References
 
